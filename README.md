@@ -1,0 +1,1 @@
+# Assessement_Image-Resizer-and-Video-Converter-and-Thumbnail-Extractor-Cpp
